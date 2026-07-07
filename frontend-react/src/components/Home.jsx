@@ -13,7 +13,7 @@ const Home = () => {
                 Itforecasts future stock prices by analyzing 100-day and 200-day moving averages, essential indicators widely used by stock analysts to inform trading and investment
                 decisions.
             </p>
-            <Button text="Login" class='btn btn-outline-info' />
+            <Button text="Explore Now " class='btn btn-info' url="/dashboard/" />
         </div>
     </div>
     </>
